@@ -32,17 +32,17 @@ A retail company wants to analyse its sales performance across different regions
 
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-  ## Dash Board
+## Dash Board
   <img width="1869" height="784" alt="Screenshot 2025-09-01 103521" src="https://github.com/user-attachments/assets/69532e25-7a5b-4df4-89db-795cc469bdf8" />
 
-  ## Key Insights
-  - September saw peak sales (₹61,705), while February lagged behind (₹16,590).
+## Key Insights
+- September saw peak sales (₹61,705), while February lagged behind (₹16,590).
 
-  - East Region dominated with top sales (₹165,683) and highest profit (₹28,103)
+- East Region dominated with top sales (₹165,683) and highest profit (₹28,103)
 
-  - Appliances led all product categories, contributing ₹113,655 in sales.
+- Appliances led all product categories, contributing ₹113,655 in sales.
 
-  - New Customers generated slightly more revenue (₹265,061) than Returning ones (₹239,401), showing strong acquisition and retention.
+- New Customers generated slightly more revenue (₹265,061) than Returning ones (₹239,401), showing strong acquisition and retention.
 
 ## Conclusions
 Focus marketing efforts around September to maximize revenue.The East region shows both high sales and profitability, making it a stronghold for expansion.Appliances dominate sales, indicating strong demand and potential for upselling or cross-selling.A good balance exists between new and returning customers, but customer loyalty strategies could further increase repeat purchases.
