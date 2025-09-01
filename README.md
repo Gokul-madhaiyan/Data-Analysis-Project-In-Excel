@@ -9,8 +9,13 @@ A retail company wants to analyse its sales performance across different regions
 
 ## Question (KPI'S)
 -Sales Trend Analysis: Identify monthly and yearly sales patterns.
+
 -Top Products & Categories: Highlight best-selling and most profitable products.
+
 -Regional Sales Performance: Compare sales across different locations.
+
 -Sales Representative Performance: Track top-performing employees.
+
 -Customer Insights: Analyze the ratio of new vs. returning customers.
+
 -Analysis: Show which products generate the highest profit margins.
