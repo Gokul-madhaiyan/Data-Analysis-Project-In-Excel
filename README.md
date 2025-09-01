@@ -44,6 +44,6 @@ A retail company wants to analyse its sales performance across different regions
 - New Customers generated slightly more revenue (₹265,061) than Returning ones (₹239,401), showing strong acquisition and retention.
 
 ## Conclusions
-Focus marketing efforts around September to maximize revenue.The East region shows both high sales and profitability, making it a stronghold for expansion.Appliances dominate sales, indicating strong demand and potential for upselling or cross-selling.A good balance exists between new and returning customers, but customer loyalty strategies could further increase repeat purchases.
+Focus marketing efforts around September to maximize revenue.The East region shows both high sales and profitability,making it a stronghold for expansion.Appliances dominate sales,indicating strong demand and potential for upselling or cross-selling.A good balance exists between new and returning customers,but customer loyalty strategies could further increase repeat purchases.
 
  
