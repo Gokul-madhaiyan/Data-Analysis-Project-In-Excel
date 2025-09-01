@@ -8,17 +8,17 @@ A retail company wants to analyse its sales performance across different regions
 - <a href="https://github.com/Gokul-madhaiyan/Data-Analysis-Project-In-Excel/blob/main/Excel%20Project.xlsx">Dataset</a> 
 
 ## Question (KPI'S)
--Sales Trend Analysis: Identify monthly and yearly sales patterns.
+- Sales Trend Analysis: Identify monthly and yearly sales patterns.
 
--Top Products & Categories: Highlight best-selling and most profitable products.
+- Top Products & Categories: Highlight best-selling and most profitable products.
 
--Regional Sales Performance: Compare sales across different locations.
+- Regional Sales Performance: Compare sales across different locations.
 
--Sales Representative Performance: Track top-performing employees.
+- Sales Representative Performance: Track top-performing employees.
 
--Customer Insights: Analyze the ratio of new vs. returning customers.
+- Customer Insights: Analyze the ratio of new vs. returning customers.
 
--Analysis: Show which products generate the highest profit margins.
+- Analysis: Show which products generate the highest profit margins.
 
 
 -Dashboard Interaction <a href="https://github.com/Gokul-madhaiyan/Data-Analysis-Project-In-Excel/blob/main/Screenshot%202025-09-01%20103521.png">View Dash Board</a>
