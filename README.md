@@ -8,17 +8,17 @@ A retail company wants to analyse its sales performance across different regions
 - <a href="https://github.com/Gokul-madhaiyan/Data-Analysis-Project-In-Excel/blob/main/Excel%20Project.xlsx">Dataset</a> 
 
 ## Question (KPI'S)
-- Sales Trend Analysis: Identify monthly and yearly sales patterns.
+-Sales Trend Analysis: Identify monthly and yearly sales patterns.
 
-- Top Products & Categories: Highlight best-selling and most profitable products.
+-Top Products & Categories: Highlight best-selling and most profitable products.
 
-- Regional Sales Performance: Compare sales across different locations.
+-Regional Sales Performance: Compare sales across different locations.
 
-- Sales Representative Performance: Track top-performing employees.
+-Sales Representative Performance: Track top-performing employees.
 
-- Customer Insights: Analyze the ratio of new vs. returning customers.
+-Customer Insights: Analyze the ratio of new vs. returning customers.
 
-- Analysis: Show which products generate the highest profit margins.
+-Analysis: Show which products generate the highest profit margins.
 - <a herf="https://github.com/Gokul-madhaiyan/Data-Analysis-Project-In-Excel/blob/main/Screenshot%202025-09-01%20103521.png">View Dash Board</a>
 
 ## Process 
@@ -29,7 +29,7 @@ A retail company wants to analyse its sales performance across different regions
 - Created pivot tables according to the questions asked.
 
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
- 
+
   ## Dash Board
   <img width="1869" height="784" alt="Screenshot 2025-09-01 103521" src="https://github.com/user-attachments/assets/69532e25-7a5b-4df4-89db-795cc469bdf8" />
 
