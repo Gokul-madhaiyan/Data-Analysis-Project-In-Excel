@@ -19,6 +19,7 @@ A retail company wants to analyse its sales performance across different regions
 -Customer Insights: Analyze the ratio of new vs. returning customers.
 
 -Analysis: Show which products generate the highest profit margins.
+
 -Dashboard Interaction <a href="https://github.com/Gokul-madhaiyan/Data-Analysis-Project-In-Excel/blob/main/Screenshot%202025-09-01%20103521.png">View Dash Board</a>
 
 ## Process 
